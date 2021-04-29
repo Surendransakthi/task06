@@ -1,0 +1,18 @@
+.bgcolor{
+    background-color: rgb(212, 240, 212);
+    border:solid 1px;
+}   
+.bgtitle{
+    background-color: thistle;
+}
+.textcolor{
+    color:red;
+}
+.textColorblue{
+    color:blue;
+}
+.marginClass{
+    margin: 10px; 
+}
+
+
